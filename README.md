@@ -7,5 +7,4 @@
 ######example: 
  * SchTask.exe -f name,path,nextruntime
  * SchTask.exe -f name,nextruntime -r json
- * SchTask.exe -f name,path,nextruntime
  * SchTask.exe -t UserTask -v -r csv

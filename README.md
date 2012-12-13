@@ -1,9 +1,9 @@
-Version compil�e:
+#####Version compil�e:
 https://github.com/cyrbil/SchTask/raw/master/SchTask/publish/Application%20Files/SchTask_0_1_0_5/SchTask.exe.netz/SchTask.exe.1.0.5.compressed.zip
 
-usage: 
+######usage: 
  * SchTask.exe -h
-example: 
+######example: 
  * SchTask.exe -f name,path,nextruntime
  * SchTask.exe -f name,nextruntime -r json
  * SchTask.exe -f name,path,nextruntime
